@@ -1,0 +1,535 @@
+
+.epr-card-container-fluid{
+	padding: 60px;
+ 	color:#313131
+}  
+
+/* header */
+
+.epr-card-title{
+	font-family: 'Calibri';
+	font-style: normal;
+	font-weight: 700;
+	font-size:2vw;
+	color: #56AC2F;
+}
+
+.epr-card-states{
+	font-family: 'Calibri';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 0em;
+	position: relative;	
+	color: #313131;
+}
+
+.epr-card-line{
+	border-top: 2px solid #40A232;
+	position: relative;
+}	
+	
+.epr-card-category{
+	font-family: 'Calibri';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	
+	color: #40A232;
+	position: relative;	
+	}
+		
+.epr-card-topimg{
+	bottom:24px;
+}	
+
+.epr-card-float-right{
+	float: right;
+	height:200px;
+	width:200px;
+}
+.epr-card-download{
+	box-sizing: border-box;
+	
+	height:55px;
+
+	background: #D8F6FF;
+	border: 2px solid #2A94F4;
+	border-radius: 10px;
+	filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+	
+	font-family: 'Calibri';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+
+	color: #000000;
+	text-align: center;
+	
+}
+/* download and upload*/
+.epr-card-download_upload{
+	float: right;
+
+	position: relative;
+	bottom: 139px;
+    left: 111px;
+	}
+
+
+
+.epr-card-download_text{
+	
+	font-family: 'Calibri';
+	font-style: bold;
+	font-weight: 700;
+	font-size: 16px;
+
+	
+	position:relative;
+	top:10px;
+
+	}	
+
+.epr-card-upload_text{
+	text-align: center;
+	font-family: 'Calibri';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;	
+	position:relative;
+	top:10px;
+	
+}
+.epr-card-downloadpng{
+	position:relative;
+	right: 60px
+}
+
+.epr-card-uploadpng{
+	position:relative;
+	right: 45px;
+}
+.epr-card-upload{
+	box-sizing: border-box;
+	
+	height:55px;
+
+	background: #FFF4D8;
+	border: 2px solid #FFBE55;
+	border-radius: 10px;
+	filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+	
+	font-family: 'Calibri';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+
+	color: #000000;
+	text-align: center;
+	}
+
+.epr-card-picload{
+	position:relative;
+	top: 3px;
+		
+}
+
+.epr-card-circle{
+	background-color:white;
+	border-radius:50%;
+	height:32px;
+	width:32px;
+	
+	position:relative;
+	
+	top: 10px;
+	right:14px;
+	text-align: center;		
+}
+
+.epr-card-downloadpng{
+	position:relative;
+	right:30px;
+}
+
+.epr-card-bgmenu{
+	height: 140px;
+	width: 1031px;	
+	background: #C5F4B0;
+	border-radius: 20px;
+	margin: auto;
+	top: 200px;
+}
+.epr-card-pending{
+	box-sizing: border-box;
+
+	width: 159.11px;
+	height: 127px;
+
+	margin:10px;
+
+	background: #40A232;
+	border: 1px solid #40A232;
+	border-radius: 15px;
+
+	font-family: 'Calibri';
+	font-style: bold;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+	
+	text-align: center;
+	line-height: 40px;
+
+	box-shadow: 0px 10px 29px rgba(0, 0, 0, 0.25);
+	
+	color: #FFFFFF;
+}
+.epr-card-nav_box{
+	box-sizing: border-box;
+
+	width: 159.11px;
+	height: 127px;
+
+	margin:10px;
+
+	background: #ffffff;
+	border: 1px solid #40A232;
+	border-radius: 15px;
+
+	font-family: 'Calibri';
+	font-style: bold;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+	
+	text-align: center;
+	line-height: 40px;
+	padding: 13px;
+	color: #000000;
+}
+	/*filter button*/
+
+.epr-card-filter{
+	width: 100px;
+	height: 42px;
+	
+	background: #40A232;
+	border: 1px solid #40A232;
+	border-radius: 7px;
+	float: right;
+	text-align: center;
+	margin-bottom: 10px;
+
+	filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.25));
+}	
+
+.epr-card-box{
+	background-color: white;
+	border-radius: 6px;
+	
+	height: 28px;
+	width: 28px;
+	text-align: center;
+	position: relative;
+	top: 6px;
+	left: 5px;
+}
+.epr-card-filter_text{
+	font-family: 'Calibri';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 24px;
+
+	color: #FFFFFF;
+	position: relative;
+	bottom: 20px;
+	left: 15px;
+}
+/* list */
+.epr-card-list1{
+	color: #b72525;
+	height: 55px;
+	background-color: #F4F4F4;
+	border-radius: 10px;
+
+}
+.epr-card-titlelist{
+	height: 55px;
+	background-color: #C5F4B0;
+	border-radius: 10px;
+
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: bold;
+
+	text-align: left;
+	padding-top: 15px;
+	margin-bottom: 10px;
+
+}
+.epr-card-list_text{
+	margin: 20px;
+}
+.epr-card-po-no{
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #575757;
+}
+.epr-card-calender{
+    width: 103.04px;
+    height: 57.89px;
+    border: 1px solid #E7F2BD;
+    border-radius: 10px;
+}
+.epr-card-vertical{
+    width: 25px;
+    height: 54px;
+    background: #83BF29;
+    border-radius: 30px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    float: left;
+    color: #DAECBF;
+}
+.epr-card-date-circle{
+    width: 25px;
+    height: 25px;
+    background: #40A232;
+    border-radius: 30px;
+
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.epr-card-days{
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #40A232;
+
+}
+.epr-card-more{
+    width: 103.04px;
+    height: 32.67px;
+    background: #AFD323;
+    border-radius: 6px;
+
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 6px;
+}
+.epr-card-right-card{
+    width: 272px;
+    height: 316px;
+    background: #FFFFFF;
+    border-radius: 25px;
+    align-items: center;
+}
+
+.epr-card-green{
+    width: 272px;
+    height: 50px;
+    background: #40A232;
+    border-radius: 25px 25px 0px 0px;
+
+    font-family: 'Calibri';
+    font-style:bold;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 12px;
+}
+
+.epr-card-per{
+    text-align: center;
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
+@media (max-width:767px) {
+    .epr-card-title{
+        font-family: 'Calibri';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .epr-card-green{
+        width: 120.27px;
+        height: 142.74px;
+        background: #40A232;
+        border-radius: 30px 0px 0px 30px;
+    }
+   
+}
+
+@media (min-width:427){
+    .epr-card-right-card{
+        height: 142.74px;
+    }
+
+    .epr-card-title{
+        font-family: 'Calibri';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .epr-card-green{
+        width: 91.97px;
+        height: 109.15px;
+        background: #40A232;
+        border-radius: 30px 0px 0px 30px;
+    }
+
+}
+.epr-card-per-amount{
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #575757;
+
+}
+
+.epr-card-per-quantity{
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    color: #575757;
+}
+.epr-card-view-po{
+    width: 90.66px;
+    height: 29.46px;
+    background: #40A232;
+    border-radius: 5px;
+
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    text-align: center;
+    margin: auto;
+	cursor:pointer;
+    
+}
+.epr-card-left-card{
+    height: 317px;
+    width: 940px;
+    background: #FFFFFF;
+    border-radius: 25px;
+    padding: 0.7rem;
+}
+.epr-card-bg{
+    height: auto;
+    width: 1224px;
+    background: #E7F2BD;
+    border-radius: 25px;
+    
+}
+.epr-card-approval-box{
+    width: 172.5px;
+    height: 30.1px;
+    background: #FF9E2C;
+    border-radius: 29px;
+
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 16px;
+    color: #FFFFFF;
+    text-align: center;
+
+}
+.epr-card-circle{
+    background-color: #fff;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FF9E2C;
+    text-align: center  ;
+}
+
+.epr-card-queries-box{
+    width: 172.5px;
+    height: 30.1px;
+    background: #FF3D00;
+    border-radius: 29px;
+
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 16px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.epr-card-appt{
+    position: relative;
+    bottom: 20px;
+}
+.epr-card-qtxt{
+    position: relative;
+    bottom: 24px;
+}
+
+.epr-card-cicrle2{
+    background-color: #fff;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FF3D00;
+    text-align: center;
+}
+.epr-card-po-pending{
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #40A232;
+}

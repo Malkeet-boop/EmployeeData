@@ -1,0 +1,27 @@
+.cardradius{
+	border-radius:50px;
+}
+
+.regimg{
+	width:70%;	
+}
+.logimg{
+	width:50%;	
+}
+.btncolor{
+	background-color:#12448E;
+}
+.navstyle{
+	height:70px;
+	background-color:#12448E;
+}
+.icolor{
+	color:blue;
+}
+.logoutsize{
+	border-radius:10px;
+	background-color:white;
+}
+.row-color{
+	background-color:#E1ECFE;
+}
